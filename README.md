@@ -21,4 +21,4 @@ $$
 \end{equation} 
 $$
 
-\sum_{i=1}^n$
+\sum_{i=1}^n\chi_{i}=\sum\chi_{i}
