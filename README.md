@@ -21,7 +21,4 @@ $$
 \end{equation} 
 $$
 
-
-\[\frac{-b\pm\sqrt{b^2-4ac}}{2a}\]$
-
-\sum_a^bx_{i}
+\sum_{i=1}^n
